@@ -511,5 +511,5 @@ const QuizApp = () => {
     );
   }
 };
-
-export default QuizApp;
+const App = QuizApp;
+export default App;
